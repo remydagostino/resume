@@ -1,0 +1,141 @@
+{
+  "bio": {
+    "firstName": "Remy",
+    "lastName": "D'Agostino",
+    "email": {
+      "personal": "dagostino.remy@gmail.com"
+    },
+    "phone": {
+      "mobile": "0401 134 879"
+    },
+    "summary": "",
+    "location": {
+      "city": "Brisbane",
+      "countryCode": "AUS",
+      "state": "Queensland"
+    },
+    "websites": {
+      "blog": "http://remydagostino.github.io"
+    },
+    "profiles": {
+      "github": "remydagostino",
+      "twitter": "RemyDAgostino"
+    }
+  },
+  "work": [
+    {
+      "company": "Rex Software",
+      "position": "Lead Front-end Developer",
+      "website": "http://rexsoftware.com",
+      "startDate": "2012-05-01",
+      "endDate": "2014-08-01",
+      "summary": "Rex was an excellent opportunity for me to hone my skills in web development. My position initally required me to do maintainence on a newly released land-estate sales CRM. Later I gained other responsibilities, the crux of which was to lead the development of a complete rebuild of Rex's main client side application using plain Javascript, HTML, CSS and PHP. This was a major project and took over a year and a half to complete with two other front-end developers. The result was excellent, and when the project finished I moved into a maintainence role where I imported client data spreadsheets, added new features to the product and built small, separate, stand-alone applications using the Rex API. In this time I also build a complex data importer using NodeJS to ease with the task of importing client data spreadsheets.",
+      "highlights": [
+        "Lead a major project of rebuilding the entire business application in HTML, CSS & Javascript",
+        "Built a powerful command line app in Javascript which has to date imported dozens of clients with millions of records",
+        "Emphasis on quality and accuracy while working closely with designers"
+      ]
+    },
+    {
+      "company": "Ironbark Software",
+      "position": "C# Developer",
+      "website": "http://www.ironbark.com.au",
+      "startDate": "2011-02-14",
+      "endDate": "2012-04-14",
+      "summary": "This was my first role as a professional software developer. My primary responsibility was to support and maintain the company's many legacy .NET 1.1 applications built in C# on top of Microsoft SQL Server. This position lead me to seriously level-up my SQL skills both in terms of query analysis and performance as well as the gritty details of complex joins and unions. Ultimately my work here drove me away from the utilitarian concerns of business software and gave me a strong desire to build beautiful consumer focused applications.",
+      "highlights": [
+        "Personally spearheaded changes to instate a triage system for handling inbound support requests",
+        "Took steps to encourage other developers to use multi-threading to prevent the UI from locking-up when performing expensive compuation",
+        "Built new systems for the layout of complex tabular data in the system's reporting module",
+        "Advocated for the use of design patterns such as the Abstract Factory to promote code resuse between similar modules of the system"
+      ]
+    },
+    {
+      "company": "Skymesh",
+      "position": "Technical Support",
+      "website": "https://www.skymesh.net.au/",
+      "startDate": "2010-11-12",
+      "endDate": "2011-04-11",
+      "summary": "I spent five months doing technical support for an Australian telco right after finishing my undergraduate degree. My responsibilities were to handle inbound enquiry, support and complaints, liasing with the sales and product staff and commisioning replacement hardware to customers with faulty equipment.\nI was tempted to leave this one off my CV as it is not a development role but I've left it in anyway. I often feel that experience working in support is something that is often missing among programmers which is a shame because I think it can offer some great insights into the external pressures that tech companies often face.",
+      "highlights": [
+        "Within four months I had been promoted to the highest position available to support staff"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Queensland University of Technology",
+      "startDate": "2008-01-01",
+      "endDate": "2010-11-01",
+      "area": "Games and Interactive Entertainment",
+      "studyType": "Bachelor",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Client Side Javascript",
+      "level": "Experienced",
+      "keywords": [
+        "Knockout.js",
+        "Underscore",
+        "Backbone.js",
+        "Ember"
+      ]
+    },
+    {
+      "name": "Server Side Javascript",
+      "level": "Intermediate",
+      "keywords": [
+        "Express/Restify",
+        "Gulp/Grunt",
+        "Mongoose",
+        "Q.js"
+      ]
+    },
+    {
+      "name": "Web Developement",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML/Jade",
+        "CSS/Less",
+        "OOCSS/SMACSS",
+        "Email Newsletters"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "MongoDB"
+      ]
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "Functional Programming",
+      "keywords": [
+        "Haskell",
+        "Clojure"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Alex Babkov",
+      "reference": "Server-side application developer and project manager at Rex Software"
+    },
+    {
+      "name": "Nicholas Bligh",
+      "reference": "Team member and UI/UX designer at Rex Software"
+    },
+    {
+      "name": "Anton Babkov",
+      "reference": "CEO of Rex Software"
+    }
+  ]
+}
